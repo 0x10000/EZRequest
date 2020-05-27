@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-A easy way to request api.
+  A demo to show how to request api.
                        DESC
 
   s.homepage         = 'https://github.com/0x10000/EZRequest'
