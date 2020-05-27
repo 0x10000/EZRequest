@@ -19,6 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 A easy way to request api.
+                       DESC
 
   s.homepage         = 'https://github.com/0x10000/EZRequest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
