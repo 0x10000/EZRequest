@@ -42,11 +42,11 @@
 		607FACE51AFB9204008FA782 /* EZRequest_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EZRequest_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		60E837F0B5362CB80459EF23 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		60E837F0B5362CB80459EF23 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9B01D141D37583969EB982E4 /* Pods_EZRequest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EZRequest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EE4AA918BEE3D3BD63A639A /* Pods_EZRequest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EZRequest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EC13F37C042EB8BA36031C63 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		EE133C422C9BF0CC822C37BB /* EZRequest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = EZRequest.podspec; path = ../EZRequest.podspec; sourceTree = "<group>"; };
+		EC13F37C042EB8BA36031C63 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		EE133C422C9BF0CC822C37BB /* EZRequest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EZRequest.podspec; path = ../EZRequest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,7 +156,6 @@
 				0CAA481D3DAD0FF4B31CBECA /* Pods-EZRequest_Tests.debug.xcconfig */,
 				23C9303BAC5B85F9354357E5 /* Pods-EZRequest_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

@@ -1,0 +1,22 @@
+{
+  "name": "EZRequest",
+  "version": "0.1.0",
+  "summary": "A short description of EZRequest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/0x10000/EZRequest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "0x10000": "yx.xuya@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/0x10000/EZRequest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EZRequest/Classes/**/*"
+}

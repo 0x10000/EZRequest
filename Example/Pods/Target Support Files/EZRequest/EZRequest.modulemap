@@ -1,0 +1,6 @@
+framework module EZRequest {
+  umbrella header "EZRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}

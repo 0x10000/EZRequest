@@ -1,0 +1,16 @@
+PODS:
+  - EZRequest (0.1.0)
+
+DEPENDENCIES:
+  - EZRequest (from `../`)
+
+EXTERNAL SOURCES:
+  EZRequest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EZRequest: e3ebad3de8d4bc8570f518f58c67a9bded3cab81
+
+PODFILE CHECKSUM: b8347030e9f7e1b8ec30bcebdc4713ac90249e06
+
+COCOAPODS: 1.9.0
