@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EZRequest_Example' do
+  pod 'EZRequest', :path => '../'
+
+  target 'EZRequest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
